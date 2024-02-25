@@ -1,5 +1,6 @@
 ## Prepare environment
 pip install torch==1.9.1
+
 datasets are located in the directory ./benchmark, e.g. ./benchmark/MNIST
 
 ## Run active learning evaluation
