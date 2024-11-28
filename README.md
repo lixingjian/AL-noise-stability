@@ -1,5 +1,4 @@
-## Description
-code for the paper Deep Active Learning with Noise Stability (AAAI 2024), paper: [https://arxiv.org/pdf/2205.13340.pdf](https://arxiv.org/pdf/2205.13340.pdf)
+## [Deep Active Learning with Noise Stability (AAAI 2024)](https://arxiv.org/pdf/2205.13340.pdf)
 
 ## Prepare environment
 pip install torch==1.9.1
