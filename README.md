@@ -38,9 +38,6 @@ conda activate DALNS
 pip install torch==1.9.1
 ```
 
-## Prepare environment
-pip install torch==1.9.1
-
 ## Run 
 datasets are located in the directory ./benchmark, e.g. ./benchmark/MNIST
 
