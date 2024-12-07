@@ -35,7 +35,11 @@ conda activate DALNS
 ```
 2. Install dependencies:
 ```
-pip install torch==1.9.1
+pip install torch==1.11.0
+pip install torch vision
+pip install toma
+pip install batchbald_redux
+pip install dppy
 ```
 
 ## Run 
